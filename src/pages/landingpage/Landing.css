@@ -1,0 +1,53 @@
+.landingpage{
+    width: 100%;
+    height: calc(100vh - 200px);
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.land1{
+    width: 50%;
+    height: 100%;
+    /* background-color: bisque; */
+    display: flex;
+    flex-direction: column;
+  
+    
+}
+
+.innerland1{
+    margin: 90px;
+}
+
+.innerland1 > h2{
+ font-size: 55px;
+}
+
+.innerland1 > button{
+    border: none;
+    padding: 15px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.typerweritting{
+    font-size: 20px;
+}
+
+.Typewriter__wrapper{
+    font-size: 22px;
+}
+
+.land2{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
