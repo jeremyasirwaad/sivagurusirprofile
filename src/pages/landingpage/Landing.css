@@ -51,3 +51,16 @@
     align-items: center;
     justify-content: center;
 }
+
+
+.land2inner{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.land2inner > img{
+    height: 80%;
+    width: auto;
+}
